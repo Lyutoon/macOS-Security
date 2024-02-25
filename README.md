@@ -1,2 +1,4 @@
 # macOS-Security
-macOS bugs found by me.
+Disclose some simple macOS bugs found by me while learning macOS security.
+
+- Incorrect memory allocation in CGSImageDataHandleCreate
